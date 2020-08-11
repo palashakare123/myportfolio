@@ -10107,6 +10107,31 @@ p.lead {
   font-size: 3rem;
 }
 
+.namee{
+  margin-top: 20px;
+
+}
+
+.aboutdetails{
+  margin-left: 10px;
+  margin-top: 20px;
+}
+
+.helloclass{
+  background-color: #bd5d38;
+  color: black;
+  font-size: 14px;
+  line-height: 24px;
+  letter-spacing: 1px;
+  font-weight: bold;
+  padding: 10px 30px;
+  border-top-left-radius: 20px;
+  border-top-right-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-bottom-left-radius: 0px;
+
+}
+
 section.resume-section {
   display: flex;
   align-items: center;
@@ -10133,3 +10158,6 @@ section.resume-section .resume-section-content {
     padding-bottom: 5rem;
   }
 }
+
+
+
